@@ -1030,7 +1030,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Access parking&nbsp;</b>&nbsp;-&nbsp;<u>Condition - 3 Adequate</u><br>Condition/defficiancies:<br>- No paved parking<br>- Parking only on grassy area<br>- Large vehicle parking may be an Issue in wet weather",
+                "caption": "<b>Access parking&nbsp;</b>&nbsp;-&nbsp;<u>Condition - 3 Adequate</u><br>Condition/defficiancies:<br>- No paved parking<br>- Parking only on grassy area<br>- Large vehicle parking may be an issue in wet weather",
                 "active": false
               },
               {
@@ -1108,7 +1108,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Hatch 3&nbsp;</b>&nbsp;-&nbsp;<u>Condition - 2 Good</u><br>Condition/defficiancies<br>-&nbsp;600mm x 600mm clear access<br>- No features below<br>- Minor staining of concrete",
+                "caption": "<b>Hatch 3&nbsp;</b>&nbsp;-&nbsp;<u>Condition - 2 Good</u><br>Condition/defficiancies<br>-&nbsp;600mm x 600mm clear access<br>- No fixtures below obstructing access<br>- Minor staining of concrete",
                 "active": false
               },
               {
@@ -1147,7 +1147,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Overflow&nbsp;</b>&nbsp;-&nbsp;<u>Condition - 2 Good</u><br>Condition/defficiancies:<br>- Overflow piping is intact<br>- Appears to have been recently installed<br>- Minor scale build up on pipework<br>- Overflow appears functional<br>- Seals appear to be in good condition",
+                "caption": "<b>Overflow&nbsp;</b>&nbsp;-&nbsp;<u>Condition - 2 Good</u><br>Condition/defficiancies:<br>- Overflow piping is intact<br>- Piping appears to have been recently installed<br>- Minor scale build up on pipework<br>- Overflow appears functional<br>- Seals appear to be in good condition",
                 "active": false
               },
               {
@@ -1173,7 +1173,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Scour outlet 2&nbsp;</b>&nbsp;- <u>Condition - 2 Good</u><br>- Outlet is intact\n<br>- Appears to have been recently installed\n<br>- Minor scale build up on operating rods<br>- Further scale build up may impair function&nbsp;<br>- Outlet appears functional\n<br>- Seals and coating appear to be in good condition<br>",
+                "caption": "<b>Scour outlet 2&nbsp;</b>&nbsp;- <u>Condition - 2 Good</u><br>- Outlet is intact\n<br>- Outlet appears to have been recently installed\n<br>- Minor scale build up on operating rods<br>- Further scale build up may impair function&nbsp;<br>- Outlet appears functional\n<br>- Seals and coating appear to be in good condition<br>",
                 "active": false
               },
               {
@@ -1212,7 +1212,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Walls&nbsp;</b>&nbsp;-&nbsp;<u>Condition - 3 Adequate</u><br>Condition/defficiancies:<br>- Walls appear intact and free of obvious cracking/surface <br>&nbsp; &nbsp;damage<br>- Coating Flaking at reservoir corners near surface and floor level <br>- Staining observed near surface level",
+                "caption": "<b>Walls&nbsp;</b>&nbsp;-&nbsp;<u>Condition - 3 Adequate</u><br>Condition/defficiancies:<br>- Walls appear intact and free of obvious cracking/damage<br>- Coating flaking at reservoir corners near surface and floor level <br>- Staining observed near surface level",
                 "active": false
               },
               {
@@ -1225,7 +1225,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Roof soffit &amp; beams&nbsp;</b>&nbsp;-&nbsp;<u>Condition - 3 Adequate</u><br>Condition/defficiancies:<br>- Concrete soffit and beams appear intact and free of <br>&nbsp; &nbsp;cracking/surface damage<br>- Concrete is free of corrosion<br>- Minor staining observed near walls",
+                "caption": "<b>Roof soffit &amp; beams&nbsp;</b>&nbsp;-&nbsp;<u>Condition - 3 Adequate</u><br>Condition/defficiancies:<br>- Concrete soffit and beams appear intact and free of <br>&nbsp; &nbsp;cracking/damage<br>- Concrete is free of corrosion<br>- Minor staining observed near walls",
                 "active": false
               },
               {
